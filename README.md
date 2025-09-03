@@ -1,4 +1,5 @@
 # Parametric Design Tool V1 
+>NOTE: THIS IS A PROOF OF CONCEPT FOR THE UPDATED DESIGN TOOL TO SHOWCASE THE CORE FUNCTION. CODE WILL BE CLEANED AND EXPANDED UPON...
 
 ## Structure
 ```
@@ -32,3 +33,4 @@ ParametricDesignTool_V1/
 ```bash
 python run.py
 ```
+
