@@ -6,7 +6,7 @@
 ParametricDesignTool_V1/
 ├── src/                         # Source code
 │   ├── core/                    # Core application logic
-│   │   ├── app.py               # MainApp class (performance optimized)
+│   │   ├── app.py               # MainApp class
 │   ├── geometry/                # Geometry modules
 │   │   ├── vase/                # Vase object geometry
 │   │   │   ├── geometry.py      # Vase geometry generation
@@ -33,4 +33,5 @@ ParametricDesignTool_V1/
 ```bash
 python run.py
 ```
+
 
